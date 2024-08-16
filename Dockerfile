@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /TheMovieProviderBot
-WORKDIR /TheMovieProviderBot
+RUN mkdir /Aj_Flix_Hub_Fliter_Bot
+WORKDIR /Aj_Flix_Hub_Fliter_Bot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
