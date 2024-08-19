@@ -1,13 +1,21 @@
 class script(object):
-    START_TXT = """Hᴇʏ {}, {}\n\nI Aᴍ Lᴀᴛᴇꜱᴛ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Pᴏᴡᴇʀꜰᴜʟ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ+└Aᴡᴇꜱᴏᴍᴇ Fɪʟᴛᴇʀ┘+├Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ┤+☞Mᴀɴᴜᴀʟ Fɪᴛᴇʀ☜ Aɴᴅ ᢵCᴜꜱᴛᴏᴍɪᴢᴇᴅ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛᢴ Aɴᴅ ᢾPʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱᢿ.\n\nMᴀɴᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/TMZ_ADMIN_BOT">Kᴜᴛᴛʏ</a>"""
+    START_TXT = """Hᴇʏ {}, {}\n\nI Aᴍ Lᴀᴛᴇꜱᴛ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Pᴏᴡᴇʀꜰᴜʟ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ+└Aᴡᴇꜱᴏᴍᴇ Fɪʟᴛᴇʀ┘+├Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ┤+☞Mᴀɴᴜᴀʟ Fɪᴛᴇʀ☜ Aɴᴅ ᢵCᴜꜱᴛᴏᴍɪᴢᴇᴅ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛᢴ Aɴᴅ ᢾPʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱᢿ.\n\nMᴀɴᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/TMZ_ADMIN_BOT">Ƙυƚƚყ</a>"""
 
-    GSTART_TXT = """Hᴇʏ {},\n\nI Aᴍ Lᴀᴛᴇꜱᴛ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Pᴏᴡᴇʀꜰᴜʟ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ+└Aᴡᴇꜱᴏᴍᴇ Fɪʟᴛᴇʀ┘+├Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ┤+☞Mᴀɴᴜᴀʟ Fɪᴛᴇʀ☜ Aɴᴅ ᢵCᴜꜱᴛᴏᴍɪᴢᴇᴅ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛᢴ Aɴᴅ ᢾPʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱᢿ.\n\nMᴀɴᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/TMZ_ADMIN_BOT">Kᴜᴛᴛʏ</a>"""
+    GSTART_TXT = """Hᴇʏ {},\n\nI Aᴍ Lᴀᴛᴇꜱᴛ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Pᴏᴡᴇʀꜰᴜʟ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ+└Aᴡᴇꜱᴏᴍᴇ Fɪʟᴛᴇʀ┘+├Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ┤+☞Mᴀɴᴜᴀʟ Fɪᴛᴇʀ☜ Aɴᴅ ᢵCᴜꜱᴛᴏᴍɪᴢᴇᴅ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛᢴ Aɴᴅ ᢾPʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇꜱᢿ.\n\nMᴀɴᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/TMZ_ADMIN_BOT">Ƙυƚƚყ</a>"""
     
-    HELP_TXT = """<b>Hᴇʏ {},
-    
-ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
+    HELP_TXT = """<b>Hᴇʏ {}
+Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>‣ Mʏ Nᴀᴍᴇ : {}\n‣ Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/TMZ_ADMIN_BOT'>Kᴜᴛᴛʏ ❤️‍🔥</a>\n‣ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ\n‣ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ\n‣ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ Dʙ\n‣ Hᴏsᴛᴇᴅ Oɴ  : Hᴇʀᴏᴋᴜ\n‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ4.2 [sᴛᴀʙʟᴇ]</b>"""
+    ABOUT_TXT = """<b><blockquote>⍟───[ MY Dᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
+    
+‣ Mʏ Nᴀᴍᴇ : <a href=https://t.me/ItachiUchiha_Filter_Bot>Iᴛᴀᴄʜɪ Uᴄʜɪʜᴀ Bᴏᴛ</a>
+‣ Mʏ Bᴇsᴛ Fʀɪᴇɴᴅ : <a href='tg://settings'>Tʜɪs Pᴇʀsᴏɴ</a> 
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/TMZ_ADMIN_BOT'>Ƙυƚƚყ</a> 
+‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a> 
+‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a> 
+‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a> 
+‣ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com'>Hᴇʀᴏᴋᴜ</a> 
+‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]</b>"""
     
     CHANNELS = """
 <b>⚡ Gʀᴏᴜᴘs & Cʜᴀɴɴᴇʟs Iɴғᴏ ⚡ 
@@ -18,11 +26,11 @@ class script(object):
 ▫ 𝟸𝟺x𝟽 Sᴇʀᴠɪᴄᴇs Aᴠᴀɪʟᴀʙʟᴇ.</b>"""
     
     STATUS_TXT = """<b>    
-‣ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{}</code>
-‣ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : <code>{}</code>
-‣ ᴛᴏᴛᴀʟ ɢʀᴏᴜᴘꜱ : <code>{}</code>
-‣ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code>
-‣ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code>
+★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
+★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
+★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
+★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 </b>"""
 
     LOG_TEXT_G = """#NewGroup
@@ -41,57 +49,58 @@ Nᴀᴍᴇ - {}
 
 Bʏ @ItachiUchiha_Filter_Bot"""
 
-    ALRT_TXT = """ʜᴇʟʟᴏ {},
-ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ,
-ʀᴇǫᴜᴇꜱᴛ ʏᴏᴜʀ'ꜱ..."""
+    ALRT_TXT = """Hᴇʟʟᴏ {},
+Tʜɪꜱ Iꜱ Nᴏᴛ Yᴏᴜʀ Mᴏᴠɪᴇ Rᴇǫᴜᴇꜱᴛ,
+Rᴇǫᴜᴇꜱᴛ Yᴏᴜʀ'ꜱ..."""
 
     OLD_ALRT_TXT = """ʜᴇʏ {},
-ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
-ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇǫᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
+Yᴏᴜ Aʀᴇ Uꜱɪɴɢ Oɴᴇ Oꜰ Mʏ Oʟᴅ Mᴇꜱꜱᴀɢᴇꜱ, 
+Pʟᴇᴀꜱᴇ Sᴇɴᴅ Tʜᴇ Rᴇǫᴜᴇꜱᴛ Aɢᴀɪɴ."""
 
-    CUDNT_FND = """Sᴘᴇʟʟɪɴɢ Mɪꜱᴛᴀᴋᴇ Bʀᴏ ‼️\nᴅᴏɴ'ᴛ ᴡᴏʀʀʏ 😊 Cʜᴏᴏꜱᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ᴏɴᴇ ʙᴇʟᴏᴡ 👇"""
+    CUDNT_FND = """I Cᴏᴜʟᴅɴ'ᴛ Fɪɴᴅ Aɴʏᴛʜɪɴɢ Rᴇʟᴀᴛᴇᴅ Tᴏ {}
+Dɪᴅ Yᴏᴜ Mᴇᴀɴ Aɴʏ Oɴᴇ Oꜰ Tʜᴇꜱᴇ? 👇"""
 
     I_CUDNT = """<b>Sᴏʀʀʏ Nᴏ Fɪʟᴇs Wᴇʀᴇ Fᴏᴜɴᴅ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇꜱᴛ {} 😕
 
-Mᴏᴠɪᴇ Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ :
+Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ Iɴ Gᴏᴏɢʟᴇ Aɴᴅ Tʀʏ Aɢᴀɪɴ 😃
 
-1) O.ᴛ.ᴛ ᴏʀ ᴅᴠᴅ ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ
+Mᴏᴠɪᴇ Rᴇǫᴜᴇꜱᴛ Fᴏʀᴍᴀᴛ 👇
 
-2) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
+Exᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
 
-3) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Iɴ Tʜᴇ Dᴀᴛᴀʙᴀsᴇ Rᴇᴘᴏʀᴛ Tᴏ Aᴅᴍɪɴs @TMZ_ADMIN_BOT</b>"""
+Sᴇʀɪᴇꜱ Rᴇǫᴜᴇꜱᴛ Fᴏʀᴍᴀᴛ 👇
 
-    I_CUD_NT = """<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
+Exᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
-Mᴏᴠɪᴇ Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ :
+🚯 Dᴏɴᴛ Uꜱᴇ ➠ ':(!,./)</b>"""
 
-1) O.ᴛ.ᴛ ᴏʀ ᴅᴠᴅ ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ
+    I_CUD_NT = """<b>Sᴏʀʀʏ Nᴏ Fɪʟᴇs Wᴇʀᴇ Fᴏᴜɴᴅ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇꜱᴛ {} 😕
 
-2) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
+Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ Iɴ Gᴏᴏɢʟᴇ Aɴᴅ Tʀʏ Aɢᴀɪɴ 😃
 
-3) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Iɴ Tʜᴇ Dᴀᴛᴀʙᴀsᴇ Rᴇᴘᴏʀᴛ Tᴏ Aᴅᴍɪɴs @TMZ_ADMIN_BOT</b>"""
+Mᴏᴠɪᴇ Rᴇǫᴜᴇꜱᴛ Fᴏʀᴍᴀᴛ 👇
 
-    MVE_NT_FND = """<b>Sᴏʀʀʏ Nᴏ Fɪʟᴇs Wᴇʀᴇ Fᴏᴜɴᴅ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇꜱᴛ 😕
+Exᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
 
-Mᴏᴠɪᴇ Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ :
+Sᴇʀɪᴇꜱ Rᴇǫᴜᴇꜱᴛ Fᴏʀᴍᴀᴛ 👇
 
-1) ᴏ.ᴛ.ᴛ ᴏʀ ᴅᴠᴅ ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ
+Exᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
-2) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
+🚯 Dᴏɴᴛ Uꜱᴇ ➠ ':(!,./)</b>"""
 
-3) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Iɴ Tʜᴇ Dᴀᴛᴀʙᴀsᴇ Rᴇᴘᴏʀᴛ Tᴏ Aᴅᴍɪɴs @TMZ_ADMIN_BOT</b>"""
+    MVE_NT_FND = """Mᴏᴠɪᴇ Nᴏᴛ Fᴏᴜɴᴅ Iɴ Dᴀᴛᴀʙᴀꜱᴇ..."""
     
 
-    TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ ꜰᴏʀ ǫᴜᴇʀʏ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
+    TOP_ALRT_MSG = """Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ Qᴜᴇʀʏ Iɴ Mʏ Dᴀᴛᴀʙᴀꜱᴇ..."""
 
-    MELCOW_ENG = """<b>👋 ʜᴇʏ {},\n\n🍁 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ\n🌟 {} \n\n🔍 ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ʏᴏᴜʀ ꜰᴀᴠᴏᴜʀɪᴛᴇ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ ʙʏ ᴊᴜꜱᴛ ᴛʏᴘɪɴɢ ɪᴛ'ꜱ ɴᴀᴍᴇ 🔎\n\n⚠️ ɪꜰ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴏʀ ꜱᴏᴍᴇᴛʜɪɴɢ ᴇʟꜱᴇ ᴛʜᴇɴ ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 👇</b>"""
+    MELCOW_ENG = """<b>👋 Hᴇʏ {},\n\n🍁 Wᴇʟᴄᴏᴍᴇ Tᴏ\n🌟 {} \n\n🔍 Hᴇʀᴇ Yᴏᴜ Cᴀɴ Sᴇᴀʀᴄʜ Yᴏᴜʀ Fᴀᴠᴏᴜʀɪᴛᴇ Mᴏᴠɪᴇꜱ Oʀ Sᴇʀɪᴇꜱ Bʏ Jᴜꜱᴛ Tʏᴘɪɴɢ Iᴛ'ꜱ Nᴀᴍᴇ 🔎\n\n⚠️ Iꜰ Yᴏᴜ'ʀᴇ Hᴀᴠɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍ Rᴇɢᴀʀᴅɪɴɢ Dᴏᴡɴʟᴏᴀᴅɪɴɢ Oʀ Sᴏᴍᴇᴛʜɪɴɢ Eʟꜱᴇ Tʜᴇɴ Mᴇꜱꜱᴀɢᴇ Hᴇʀᴇ 👇</b>"""
 
     DISCLAIMER_TXT = """
 <b>ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ. 
 
-🌿 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/TMZ_ADMIN_BOT'>Kᴜᴛᴛʏ</a></b>"""
+🌿 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/TMZ_ADMIN_BOT'>Ƙυƚƚყ</a></b>"""
 
     USERS_TXT = """👋 ʜᴇʏ {},
 
@@ -232,36 +241,39 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
     # PLESE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     CREDITS_TXT = """<b>
-❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
+❤️‍🩹 <u>Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ Tᴏ Eᴠᴇʀʏᴏɴᴇ</u>
 
-• Mᴀɪɴ Oᴡɴᴇʀ : <a href="https://t.me/TMZ_ADMIN_BOT">Kᴜᴛᴛʏ❤️‍🔥</a>
+• Mᴀɪɴ Oᴡɴᴇʀ : <a href="https://t.me/TMZ_ADMIN_BOT">Ƙυƚƚყ❤️‍🔥</a>
 
-ɪ ᴀᴍ ꜱᴏʀʀʏ ɪꜰ ɪ ꜰᴏʀɢᴏᴛ ꜱᴏᴍᴇᴏɴᴇ 🫂
-ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>
+I Aᴍ Sᴏʀʀʏ Iꜰ I Fᴏʀɢᴏᴛ Sᴏᴍᴇᴏɴᴇ 🫂
+Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Hᴇʟᴘɪɴɢ Iɴ Tʜɪꜱ Aᴍᴀᴢɪɴɢ Rᴏʟʟᴇʀ Cᴏᴀꜱᴛᴇʀ Jᴏᴜʀɴᴇʏ 🚀</b>
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
     CAPTION = """<b>📂 {file_name}<b>
     
-    » Nᴇᴡ Uᴘᴅᴀᴛᴇs : @TamilMoviesz_HD
+    » Nᴇᴡ Uᴘᴅᴀᴛᴇs : @TamilCinemasHub
     
-    » Mᴏᴠɪᴇ Rᴇϙᴜᴇsᴛ 24×7 :@MoviezRequestTamil <b>""" 
+    » Mᴏᴠɪᴇ Rᴇϙᴜᴇsᴛ 24×7 : @TamilCinemaRequest <b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
+<b>Query: {qurey}
 
-🧿 {title}</b>
+IMDb Data:
 
-<b>⭐ {rating} | ⏰ {runtime} Minutes
-📆 {release_date}
-🕵️ {director}
+<b>🏷 Title</b>: <a href={url}>{title}</a>
+🎭 Genres: {genres}
+📆 Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+☀️ Languages : <code>{languages}</code>
+📀 RunTime: {runtime} Minutes
+📆 Release Info : {release_date}
+🎛 Countries : <code>{countries}</code>
 
-●  {languages}
-●  {genres}
 
-📖 {plot}
+⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-💗 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {message.chat.title}</b>
+Requested by : {message.from_user.mention}</b>
 """
     
 
@@ -443,5 +455,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 Special Thanks To ❤️ Developer -
 
--Developer [Owner of this bot ]<a href='https://t.me/TMZ_ADMIN_BOT'>Kᴜᴛᴛʏ</a>
+-Developer [Owner of this bot ]<a href='https://t.me/TMZ_ADMIN_BOT'>Ƙυƚƚყ</a>
 """
